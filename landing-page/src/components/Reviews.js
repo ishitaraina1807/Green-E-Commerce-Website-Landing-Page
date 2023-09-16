@@ -11,7 +11,7 @@ import emoji from '../images/emoji.svg'
 export default function Reviews() {
   return (
     <div>
-      <h1 class="text-[#000] font-AbrilFatface text-[30px] font-normal leading-normal text-center"><b>Review Terbaik</b></h1>
+      <h1 class="text-[#000] font-AbrilFatface text-[30px] font-normal leading-normal text-center m-2"><b>Review Terbaik</b></h1>
       <div className="flex gap-[30px] my-8 ml-[100px]">
         <div className="card1">
           <div class="w-[400px] h-[200px] flex-shrink-0 rounded-[8px] bg-white shadow-md">
