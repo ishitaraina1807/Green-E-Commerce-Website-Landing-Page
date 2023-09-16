@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './components/Header'
 import Promo from './components/Promo'
+import Reviews from './components/Reviews';
 import Sale from './components/Sale'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <Header/>
     <Promo/>
     <Sale/>
+    <Reviews/>
    </div>
   );
 }

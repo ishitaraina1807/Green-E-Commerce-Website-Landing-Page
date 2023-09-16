@@ -29,8 +29,8 @@ export default function Promo() {
             </div>
             <div className="flex flex-col mt-2 gap-1 w-3/5 h-24 items-start">
               <div className="self-end relative flex flex-col mb-5  items-start">
-                <div className="border-solid border-[#228f47]  w-16 h-3 shrink-0 border rounded-sm">
-                <div className="text-xs font-['Sequel_Sans'] font-light absolute w-[20px]">
+                <div className="border-solid border-[#228f47]  w-16 h-3 shrink-0 border rounded-sm mr-3">
+                <div className="text-[8px] font-['Sequel_Sans'] font-light absolute w-full ml-2 mb-1">
                   Promo Jumbo
                 </div>
                 </div>
@@ -54,7 +54,7 @@ export default function Promo() {
                   </div>
                 </div>
               </button>
-              <div className="text-xs font-['Sequel_Sans'] font-light self-end mr-1">
+              <div className="text-[8px] font-['Sequel_Sans'] font-light self-end mr-3">
                 S&K Berlaku
               </div>
             </div>
