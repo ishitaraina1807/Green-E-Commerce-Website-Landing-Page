@@ -19,37 +19,37 @@ export default function Category() {
       <div>
       <div className='flex gap-[30px] ml-[100px] mb-8'>
       <div className="card1">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c1} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Sayur Mayur</b></p>
         </div>
       </div>
       <div className="card2">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c2} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Kebutuhan Harian</b></p>
         </div>
       </div>
       <div className="card3">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c3} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Minuman</b></p>
         </div>
       </div>
       <div className="card4">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c4} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Bibit Pohon</b></p>
         </div>
       </div>
       <div className="card5">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c5} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Hijau dan Segar</b></p>
         </div>
       </div>
       <div className="card6">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c6} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Paket Makanan</b></p>
         </div>
@@ -57,37 +57,37 @@ export default function Category() {
       </div>
       <div className='flex gap-[30px] ml-[100px]'>
       <div className="card7">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c7} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Buah Buahan</b></p>
         </div>
       </div>
       <div className="card8">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c8} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Makanan Instant</b></p>
         </div>
       </div>
       <div className="card9">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c9} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Kebutuhan Berkebun</b></p>
         </div>
       </div>
       <div className="card10">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c10} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Daging Vegetarian</b></p>
         </div>
       </div>
       <div className="card11">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c1} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Bumbu & Rempah</b></p>
         </div>
       </div>
       <div className="card12">
-        <div class="w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
+        <div className = "w-[190px] h-[190px] rounded-[10px] bg-white shadow-md my-2 px-8 py-4">
           <img src={c12} alt="food" />
           <p className="text-[#000] font-SequelSans text-[16px] font-light leading-normal text-center mt-2"><b>Lainnya</b></p>
         </div>
