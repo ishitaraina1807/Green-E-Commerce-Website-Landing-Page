@@ -20,6 +20,10 @@ module.exports = {
       'custom-white-3' : '#F9F9F9',
       'light-grey': '#A1A1A1'
       },
+      fontFamily: {
+        'SequelSans': ['Sequel Sans', 'sans'],
+        'AbrilFatface': ['Abril Fatface', 'cursive'], 
+      },
     },
   },
   plugins: [],

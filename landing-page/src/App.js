@@ -1,4 +1,7 @@
 import './App.css';
+import Category from './components/Category';
+import Coupon from './components/Coupon';
+import Footer from './components/Footer';
 import Header from './components/Header'
 import Promo from './components/Promo'
 import Reviews from './components/Reviews';
@@ -11,6 +14,9 @@ function App() {
     <Promo/>
     <Sale/>
     <Reviews/>
+    <Category/>
+    <Coupon/>
+    <Footer/>
    </div>
   );
 }

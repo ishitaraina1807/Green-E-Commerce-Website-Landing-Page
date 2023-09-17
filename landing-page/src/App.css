@@ -2,3 +2,6 @@
     background-image: url(./images/bgImage.png);
    border-radius: 20px;
 }
+.bg-svg-background {
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="404" height="368" viewBox="0 0 404 368" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M206.047 0.00247284C262.449 0.22268 318.991 15.3699 356.145 57.9207C395.378 102.854 412.163 163.872 400.216 222.38C387.936 282.52 351.275 339.29 294.172 361.428C240.897 382.081 186.978 349.643 135.398 325.043C83.3291 300.208 22.3244 279.149 5.63343 223.809C-11.9929 165.368 13.7961 102.173 54.4774 56.7429C92.3848 14.411 149.309 -0.21905 206.047 0.00247284Z" fill="#5AAA75"/></svg>');
+  }
